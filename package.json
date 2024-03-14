@@ -1,5 +1,5 @@
 {
-  "name": "realtime-weather",
+  "name": "realtime-weather-forcast",
   "version": "1.0.0",
   "description": "An npm package to get realtime weather",
   "main": "index.js",

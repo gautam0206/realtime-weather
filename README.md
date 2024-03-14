@@ -1,6 +1,8 @@
 # realtime-weather
 An npm package to get realtime weather
-npm i realtime-weather
+
+To install Package
+npm i realtime-weather-forecast
 
 
 syantax for use this package
@@ -17,5 +19,5 @@ const main = async (city) => {
     console.log(weatherData);
 };
 
-main('Hisar');
+
 
